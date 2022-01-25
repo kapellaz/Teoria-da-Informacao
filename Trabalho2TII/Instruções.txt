@@ -1,0 +1,10 @@
+Instruções para correr o programa:
+
+O código foi testado para python3, por isso não é garantido que funcione para versões inferiores.
+
+É necessário ter instalado o bitarray, numpy e matplotlib antes de utilizar: 
+-pip install bitarray
+-pip install mathplotlib
+-pip install numpy
+
+Ao correr o programa, este vai aplicar todos os métodos de compressão, sendo por isso um pouco lento.
